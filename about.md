@@ -17,11 +17,4 @@ title: 关于我
 
 这个博客来自于<a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>潘柏信</a>。有兴趣的话欢迎点击上面的链接。
 
-<p>
-
-<p>
-
-<p>
-
-
 {% include comments.html %}
