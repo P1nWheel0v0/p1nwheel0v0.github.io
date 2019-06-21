@@ -1,12 +1,12 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 酸辣粉多花生
+subtitle: 中国的面食文化
+description: 欢迎来到酸辣粉的世界~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: P1nWheel0v0
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: 学习
+url: "http://p1nwheel0v0.github.io"
 
 # Comment
 comment:
@@ -16,25 +16,19 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    # weibo: 5366874726
+    github: P1nWheel0v0
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
-    # twitter: 
-    mail: leopardpan@icloud.com
-
-
-# 百度统计 
-# 使用博客模板请去掉或者更换 id 
-baidu:
-    id: xxxx  
+    # jianshu: 2ada30d8d0f7
+    # twitter:
+    # mail: leopardpan@icloud.com
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
-    id: xxxx  
-    host: auto  
+    id: UA-142487015-1
+    host: auto
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
@@ -58,18 +52,16 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: 主页
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
-    
+    - {title: 所有文章, description: archive, url: '/archive'}
+    - {title: 标签, description: tags, url: '/tags'}
+    - {title: 关于我, description: about, url: '/about'}
+
 
 # Pagination
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
-
-
